@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+
+	$basetexture "models/passtime/tv/passtime_tv_screen_static"
+	$selfillum 1	
+	"$surfaceprop" "Default"
+"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 18
+		}
+
+	}
+
+
+}
